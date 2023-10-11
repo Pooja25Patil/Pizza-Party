@@ -1,7 +1,7 @@
 # Pizza-Party
 ## Topping on Pizza:
-**1. Marinara sauce.**
-*2. Chicken breast.*
+1. **Marinara sauce.**
+2. *Chicken breast.*
 3. Green peppers.
 4. Black olives.
 5. Spinach.
